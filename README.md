@@ -1,6 +1,6 @@
 # PDF Unlocker
 
-Sometimes banks and other institutions require unprotected files as evidence for applications etc. This script provides a friendly way to remove PDF passwords. It's basically just a wrapper for QPDF.
+Sometimes banks and other institutions require unprotected files as evidence for applications etc. This script provides a friendly way to remove PDF passwords. It's basically just a wrapper for [QPDF](https://github.com/qpdf/qpdf).
 
 # How to use
 
