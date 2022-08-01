@@ -1,14 +1,14 @@
 # PDF Unlocker
 
-Sometimes banks and other institutions require unprotected files as evidence for applications etc. This script provides a friendly way to remove PDF passwords. It's basically just a wrapper for [QPDF](https://github.com/qpdf/qpdf).
+Sometimes banks and other institutions do not accept password-protected PDF's as evidence for applications etc. This script provides a friendly way to remove the passwords. It's basically just a wrapper for [qpdf](https://github.com/qpdf/qpdf).
 
 # How to use
 
 1. Clone this repo to your computer.
 
-2. Download a [QPDF Windows release](https://github.com/qpdf/qpdf); it will be named something like *qpdf-10.6.3-bin-mingw64.zip*.
+2. Download a [qpdf Windows release](https://github.com/qpdf/qpdf); it will be named something like *qpdf-10.6.3-bin-mingw64.zip*.
 
-3. Extract and place the qpdf folder inside the root of this repo, e.g.:
+3. Extract it into the root of this repo, e.g.:
 ```
 pdf-unlocker
 ├───qpdf-10.6.3
