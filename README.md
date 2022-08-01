@@ -1,6 +1,6 @@
 # PDF Unlocker
 
-Sometimes banks and other institutions do not accept password-protected PDF's as evidence for applications etc. This script provides a friendly way to remove the passwords. It's basically just a wrapper for [qpdf](https://github.com/qpdf/qpdf).
+Sometimes banks and other institutions don't accept password-protected PDF's as evidence for applications etc. This script provides a friendly way to remove the passwords using [qpdf](https://github.com/qpdf/qpdf).
 
 # How to use
 
@@ -14,7 +14,7 @@ pdf-unlocker
 ├───qpdf-10.6.3
 ├───Files To Decrypt
 ├───Decrypted
-├───Run This.ps1
+├───Script.ps1
 ```
 4. Place your password protected PDF files inside ```.\Files To Decrypt\```
 
